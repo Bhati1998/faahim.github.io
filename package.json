@@ -1,13 +1,13 @@
 {
-  "name": "faahim.github.io",
+  "name": "Lokesh_Portfolio.github.io/",
   "version": "0.1.0",
   "author": {
-    "name": "Afiur Rahman Fahim",
-    "email": "afiur.fahim@gmail.com",
-    "url": "https://faahim.github.io"
+    "name": "Lokesh Bhati",
+    "email": "lokeshbhati1998@gmail.com",
+    "url": "https://bhati1998.github.io/Lokesh_Portfolio.github.io/"
   },
   "license": "MIT",
-  "homepage": "https://faahim.github.io/",
+  "homepage": "https://bhati1998.github.io/Lokesh_Portfolio.github.io/",
   "private": true,
   "dependencies": {
     "node-sass-chokidar": "0.0.3",
